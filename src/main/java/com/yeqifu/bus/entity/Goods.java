@@ -45,7 +45,7 @@ public class Goods implements Serializable {
 
     private String description;
 
-    private Double price;
+    private String destination;
 
     private Integer number;
 
